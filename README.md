@@ -38,9 +38,9 @@ I’m @Heraki, a user starting in the world of coding and
 
 ## 📚 My Latest Entries
 <!-- BLOG-POST-LIST:START -->
+- [/u/ThisIsHeraki on How ??](https://www.reddit.com/r/HolUp/comments/mbedtb/how/gtsgyrl/)
+- [/u/ThisIsHeraki on Suprise motha fucka](https://www.reddit.com/r/HolUp/comments/mc6j2n/suprise_motha_fucka/gtsgv4z/)
+- [/u/ThisIsHeraki on Monke is here](https://www.reddit.com/r/HolUp/comments/mmnic4/monke_is_here/gtsg8m6/)
 - [/u/ThisIsHeraki on Hol up one second...](https://www.reddit.com/r/HolUp/comments/m58cp8/hol_up_one_second/gr00493/)
 - [/u/ThisIsHeraki on I love to eat bananas, it gives you protein](https://www.reddit.com/r/HolUp/comments/m5acyf/i_love_to_eat_bananas_it_gives_you_protein/gqzzcrm/)
-- [/u/ThisIsHeraki on Get in the boat](https://www.reddit.com/r/HolUp/comments/m4sy0e/get_in_the_boat/gqzyr14/)
-- [/u/ThisIsHeraki on How can i fix this??](https://www.reddit.com/r/discordapp/comments/m0g6es/how_can_i_fix_this/gqbapxy/)
-- [/u/ThisIsHeraki on Get a custom Rich Presence with buttons](https://www.reddit.com/r/discordapp/comments/m0xrxo/get_a_custom_rich_presence_with_buttons/gqb9u7y/)
 <!-- BLOG-POST-LIST:END -->
