@@ -38,9 +38,9 @@ I’m @Heraki, a user starting in the world of coding and
 
 ## 📚 My Latest Entries
 <!-- BLOG-POST-LIST:START -->
+- [/u/ThisIsHeraki on NaNi](https://www.reddit.com/r/HolUp/comments/mpj4pm/nani/gucp5px/)
+- [/u/ThisIsHeraki on Uhhhhh](https://www.reddit.com/r/HolUp/comments/mpx75l/uhhhhh/gucotew/)
 - [/u/ThisIsHeraki on Oh god...](https://www.reddit.com/r/HolUp/comments/mpryvn/oh_god/guchmfr/)
 - [/u/ThisIsHeraki on hmmm this looks familiar](https://www.reddit.com/r/HolUp/comments/mp9gdh/hmmm_this_looks_familiar/gu8ic9f/)
 - [/u/ThisIsHeraki on TRADE ACCEPTED!](https://www.reddit.com/r/HolUp/comments/molmrd/trade_accepted/gu8eo6p/)
-- [/u/ThisIsHeraki on How ??](https://www.reddit.com/r/HolUp/comments/mbedtb/how/gtsgyrl/)
-- [/u/ThisIsHeraki on Suprise motha fucka](https://www.reddit.com/r/HolUp/comments/mc6j2n/suprise_motha_fucka/gtsgv4z/)
 <!-- BLOG-POST-LIST:END -->
